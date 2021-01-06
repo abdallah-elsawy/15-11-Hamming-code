@@ -1,0 +1,2 @@
+# 15-11-Hamming-code-bonus-
+This work presents a way of designing (11, 15) Hamming encoder and decoder using Verilog  Hardware Description Language . Its an error detection and correction coding technique used to detect double and single bit errors when binary data is transmitted from one end to other. It is type for forward error correction coding which doesn't require re-transmission of data when received data is found to be corrupted. In this design, Hamming code for single bit error detection and correction is implemented using Verilog HDL
